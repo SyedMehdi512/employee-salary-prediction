@@ -1,4 +1,4 @@
-# # Employee Data Preprocessing and Salary Prediction
+# Employee Data Preprocessing and Salary Prediction
 
 ## Project Overview
 This project focuses on preprocessing an employee dataset and preparing it for machine learning. Using Python and popular data science libraries, the notebook demonstrates data cleaning, feature engineering, data transformation, and salary prediction using Linear Regression.
